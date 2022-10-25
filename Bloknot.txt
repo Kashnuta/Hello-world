@@ -1,2 +1,3 @@
 Hello
 My test pass
+Continue
